@@ -1,8 +1,8 @@
 class Prt < Formula
   desc "PRT - Herramienta CLI para manejar pull requests en GitHub"
   homepage "https://github.com/djego/prt"
-  url "https://github.com/djego/prt/releases/download/v0.4.0/homebrew-prt-v0.4.tar.gz"
-  sha256 "68bbaff26aba63819f2b15bc4c829e69b32f09e3063f5e329dcf29b427ccfc2e"
+  url "https://github.com/djego/prt/releases/download/v0.4.1/homebrew-prt-v0.4.1.tar.gz"
+  sha256 "723dd06f54ecc0c3c2f3d00ab8df50007ead3c65a942360a30784631f44ebc3a"
   license "MIT"
 
   depends_on "rust" => :build
